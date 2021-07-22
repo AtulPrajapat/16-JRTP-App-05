@@ -8,9 +8,17 @@ public class GitEx9 {
 			System.out.println("I am from main");
 		}
 
+
        public void featurs1(){
 		   System.out.println("i am from featurs-301");
 	   }   
+
+
+    
+    
+		public void featurs(){
+			System.out.println("i am from featurs-300");
+		}
 
 		
 	}
